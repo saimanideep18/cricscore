@@ -1,0 +1,7 @@
+Team A — 172/4 (19.2 overs)
+Batter	Dismissal	R	B	4s	6s	SR
+Rahul	c Kumar b Arjun	45	32	5	1	140.6
+Sai	b Kumar	28	21	3	0	133.3
+Rohit	lbw b Arjun	12	10	1	0	120.0
+Kiran	not out	61	38	6	2	160.5
+Mani	not out	18	15	2	0	120.0
